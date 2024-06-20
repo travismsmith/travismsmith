@@ -16,7 +16,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.header.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: header
       - name: Icons
         uses: lowlighter/metrics@latest
         with:
