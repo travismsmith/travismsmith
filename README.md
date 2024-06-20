@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Metrics](/metrics.svg)
 <!--
 **travismsmith/travismsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
